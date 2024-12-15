@@ -14,9 +14,10 @@
 
 ### Libraries used
 **react-canvas-draw**
+
 **bootstrap**(for quick flexbox/grid styles)
 
-###Challenges faced
+### Challenges faced
 During the assignment I got across a problem where adjusting the canvasHeight and canvasWidth properties to image height and width throws an error. Later I've realized that this is caused by the inital state defined for height and width variables(initial states being too low i.e sub 200). I've rectified after going through a couple of forums online.
-
+  
 Also this is my first time working on image as a main elemnt in react projects. I got to learn various methods involving images through this assignment.
