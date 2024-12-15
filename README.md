@@ -11,6 +11,14 @@
 
 5. Open browser and head over to the local address shown (usually http://localhost:5173/).
 
+6. After loading the page choose an image file by clicking on the button to the left of webpage(A sample image is provided in /src/assets).
+
+7. You can change the brush radius by sliding the slider on the left.
+
+8. After you're done creating mask, click on save button.
+
+9. To restart/select another image file restart the webpage.
+
 
 ### Libraries used
 **react-canvas-draw**
